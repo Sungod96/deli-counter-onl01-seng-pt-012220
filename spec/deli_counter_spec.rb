@@ -1,4 +1,4 @@
-describe deli_counter do
+describe "#deli_counter" do
 
   let(:katz_deli) { [] }
   let(:other_deli) { ["Logan", "Avi", "Spencer"] }
