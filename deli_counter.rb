@@ -8,9 +8,7 @@ def line(katz_deli)
   
   def take_a_number(katz_deli,name)
     katz_deli = []
-    katz_deli << "Ada"
-    katz_deli << "Grace"
-    katz_deli << "Kent"
+    katz_deli << name
     people_in_line = 0 
     people_in_line += l 
     loop do 
