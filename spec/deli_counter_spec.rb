@@ -1,4 +1,4 @@
-
+describe 
 
   let(:katz_deli) { [] }
   let(:other_deli) { ["Logan", "Avi", "Spencer"] }
